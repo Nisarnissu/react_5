@@ -1,0 +1,23 @@
+.Landing_Banner{
+    display: flex;
+    height: 700px;
+    width: 50%;
+}
+.Landing-container{
+    display:flex;
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+}
+.Landing-container h1{
+    align-self: center;
+    margin-left: 30px;
+    color: rgb(48, 89, 6);
+}
+.button{
+    height: 50px;
+    align-self: center;
+    margin-left: -120px;
+    margin-top: 430px;
+    padding: 20px;
+}

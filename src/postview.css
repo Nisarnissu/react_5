@@ -1,0 +1,61 @@
+.logo{
+    margin-left:20px ;    
+    height: 50px;
+    width: 120px;
+}
+.Camera{
+    height: 50px;
+    width: 120px;
+    margin-right: 20px;
+    float: right;
+}
+#root{
+    display: flex;
+    justify-content: center;
+}
+header{
+    display: list-item;
+    /* background-color: aquamarine; */
+}
+.Alldiv{
+    display: inline-grid;
+}
+.post{
+    border-radius: 10px;
+    border:1px solid black;
+    display: inline-table;
+    margin: 10px;
+}
+ .name{
+    margin-top: 10px;
+}
+.dots{
+    float: right;
+    /* border: 1px solid black; */
+    margin-top: -30px;
+    margin-right: 10px;
+}
+.user-likes{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.picture{
+    height: 150px;
+    width: 500px;
+}
+.both_pics{
+    margin-left: -405px;
+    /* display: flex; */
+    float: left;
+    margin-top: -10px;
+}
+.user-meta{
+    float:right;
+    margin-right: 10px;
+}
+.user-description{
+    margin: 10px;
+    margin-left: 15px;
+    font-weight: bold;
+
+}
